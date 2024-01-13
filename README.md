@@ -1,6 +1,5 @@
 # MonthlyUtilityBillPrediction
 
-1 Introduction
 Background: Have you noticed that your electricity bill has gone up this year? The wholesale
 electricity prices in Australia are at record highs, tripling in the three months to June compared to
 the same time last year. The Australian Energy Market Operator (AEMO) said it was because of
